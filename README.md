@@ -1,4 +1,5 @@
-<b>Triangle Exercises</b>
+Triangle Exercises
+==================
 
 Easiest exercise ever
 Print one asterisk to the console.
@@ -12,7 +13,8 @@ Given a number n, print n lines, each with one asterisks
 Draw a right triangle
 Given a number n, print n lines, each with one more asterisk than the last (i.e. one on the first line, two on the second,etc.) 
 
-<b>Diamond Exercises</b>
+Diamond Exercises
+=================
 
 Isosceles Triangle
 Given a number n, print a centered triangle. Example for n=3:
@@ -23,7 +25,8 @@ Given a number n, print a centered diamond. Example for n=3:
 Diamond with Name
 Given a number n, print a centered diamond with your name in place of the middle line. Example for n=3:
 
-<b>FizzBuzz Exercise</b>
+FizzBuzz Exercise
+=================
 
 FizzBuzz is a simple number game where you count, but say "Fizz" and/or "Buzz" instead of numbers adhering to certain rules.
 
@@ -49,7 +52,8 @@ Fizz
 14
 FizzBuzz
 
-<b>Prime Factors Exercise</b>
+Prime Factors Exercise
+======================
 
 Write a method generate(int n) that given an integer N will return a list of integers such that the numbers are the factors of N and are arranged in increasing numerical order.
 
