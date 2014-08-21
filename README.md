@@ -1,1 +1,1 @@
-ThoughtWorks University Introductory Programming Exercises.
+Introductory Programming Exercises - Java.
